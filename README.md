@@ -19,11 +19,11 @@
 ## 👨‍💻 About Me
 
 * 🎓 **CSE from KU.**
-* 💼 **Fullstack Dev and UI/UX.**
-* 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Web Scraping**.
+* 💼 **Fullstack Dev and UI/UX Design.**
+* 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Data Mining**.
 * ✍️ Wikipedia Editor & Contributor.
 * 🏆 Google Maps Local Guide.
-* ⚡ **Fun Fact:** I enjoy exploring Biomimicry, Economic theories, and playing Football!
+
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing a **Bachelor of Engineering in Computer Engineering (CSE)** at Kathmandu University.
+* 🎓 **CSE from KU.**
 * 💼 **Fullstack Dev and UI/UX.**
 * 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Web Scraping**.
 * ✍️ Wikipedia Editor & Contributor.

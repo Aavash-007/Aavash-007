@@ -1,69 +1,71 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Aavash%20Adhikari&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Aspire%20to%20impact%20via%20Modern%20Computing%20Technology&descAlignY=58&descAlign=50" alt="Header" />
-</div>
+<h1 align="center">Hi 👋, I'm Aavash Adhikari</h1>
+<h3 align="center">Computer Engineering Undergraduate @ Kathmandu University</h3>
 
-<h3 align="center">🎓 Computer Engineering Undergraduate @ Kathmandu University | 💻 Developer | 🤖 AI Enthusiast</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aavashadhikari007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aavash-007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="mailto:aavashbkt15@gmail.com"><img src="https://img.shields.io/badge/Email-aavashbkt15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/aavashadhikari007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Aavash-007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+UI%2FUX;AI%2FML+Enthusiast;Python,+React+%26+Next.js" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **Bachelor of Engineering in Computer Engineering (CSE)** at Kathmandu University.
-- 💼 Currently, engaging as a **Frontend Developer & UI/UX Designer** at Medbot.me, and leading research on **Air Quality Monitoring and Prediction System (AQMPS)**.
-- 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Web Scraping**.
-- ✍️ Wikipedia Editor & Contributor (Authored a BLP to Mainspace).
-- 🏆 Google Maps Local Guide (Level 7) with 43M+ engagement & 5M+ engagement on TikTok.
-- 💬 Ask me about **Next.js, Agentic AI, EDA, or OSINT**.
-- ⚡ Fun Fact: I enjoy exploring Biomimicry, Economic theories, and playing Football!
+* 🎓 Pursuing a **Bachelor of Engineering in Computer Engineering (CSE)** at Kathmandu University.
+* 💼 **Frontend Developer & UI/UX Designer**, focused on building elegant user experiences.
+* 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Web Scraping**.
+* ✍️ Wikipedia Editor & Contributor (Authored a BLP to Mainspace).
+* 🏆 Google Maps Local Guide (Level 7) with 43M+ engagement & 5M+ engagement on TikTok.
+* ⚡ **Fun Fact:** I enjoy exploring Biomimicry, Economic theories, and playing Football!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-
-### Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-
-### Backend & Databases
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-### AI / Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-
-### Tools & Others
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
----
-
-## 💼 Experience & Projects
-
-- **Medbot.me (B2B Startup)** - UI/UX Designer & Frontend Developer (Next.js), ML Model Validation, SEO.
-- **Air Quality Monitoring & Prediction System (AQMPS)** - IoT (Raspberry Pi), Python, FBProphet for time-series forecasting.
-- **Election Analysis Platform** - Built with Python, BeautifulSoup, Pandas, Streamlit achieving 99.96% completeness.
-- **NEPSE ELITE** - Tracking broker behavior in Nepali stock market using Streamlit.
-- **GIS-Based Hazard Surveillance** - Flood detection architecture using UNet and Computer Vision.
-- **Image Style Translation** - Monet style translation using CycleGAN & Keras.
-- **Automation** - Web scrapers and bots leveraging Playwright, BeautifulSoup, and Selenium.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&hide_border=true&theme=radium" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&hide_border=true&theme=radium" alt="Top Languages" />
-</div>
-
+**Programming Languages**
 <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aavash-007&icon=0&color=0" alt="Views" />
-</div>
+**Frontend Development**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+
+**AI & Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" />
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&text_color=333333&icon_color=00599C">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="Aavash's GitHub stats" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="150" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aavash-007&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>

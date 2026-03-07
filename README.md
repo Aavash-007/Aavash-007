@@ -54,7 +54,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aavash-007&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aavash-007&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
 <p align="center">

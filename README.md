@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aavash Adhikari</h1>
-<h3 align="center">Computer Engineering Undergraduate @ Kathmandu University</h3>
+<h3 align="center">CSE @ KU</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aavashadhikari007">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+UI%2FUX;AI%2FML+Enthusiast;Python,+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%26+UI%2FUX;Artificial+Intelligence;Python,+React+%26+Next.js" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,10 +19,10 @@
 ## 👨‍💻 About Me
 
 * 🎓 Pursuing a **Bachelor of Engineering in Computer Engineering (CSE)** at Kathmandu University.
-* 💼 **Frontend Developer & UI/UX Designer**, focused on building elegant user experiences.
+* 💼 **Fullstack Dev and UI/UX.**
 * 🌱 Exploring the depths of **AI/ML**, **Fine-tuning**, **LangChain**, and **Web Scraping**.
-* ✍️ Wikipedia Editor & Contributor (Authored a BLP to Mainspace).
-* 🏆 Google Maps Local Guide (Level 7) with 43M+ engagement & 5M+ engagement on TikTok.
+* ✍️ Wikipedia Editor & Contributor.
+* 🏆 Google Maps Local Guide.
 * ⚡ **Fun Fact:** I enjoy exploring Biomimicry, Economic theories, and playing Football!
 
 ---
@@ -54,16 +54,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&text_color=333333&icon_color=00599C">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="Aavash's GitHub stats" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="150" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aavash-007&show_icons=true&theme=tokyonight&hide_border=true" alt="Aavash's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aavash-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">

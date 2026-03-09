@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aavash_adh</h1>
-<h3 align="center">CSE @ KU</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/aavashadhikari007">
